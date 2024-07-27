@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Historia de Literatura</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+<h1>Historia</h1>
+  </header>
+
+
+  <main>
+    <section>
+      <h2>Desaparecido</h2>
+  
+    <article>
+    
+      <p>La leyenda cuenta que la familia que habitaba la casa en la colina de
+      Colonia del Sacramento era conocida por su riqueza y misterio. Se
+      decía que practicaban antiguos rituales en secreto y que guardaban
+      oscuros secretos en las profundidades de su mansión.</p>
+    </article>
+      <article>
+      <p>Una noche,
+      durante una tormenta feroz, los lugareños notaron que las luces de la
+      casa parpadearon y luego se extinguieron por completo. Al día
+      siguiente, cuando fueron a investigar, encontraron la casa desierta, sin
+      signos devida ni explicación sobre lo sucedido con lafamilia.</p>
+
+     <p>Desde entonces, los habitantes de Colonia del Sacramento evitan pasar
+     cerca de la casa encantada, temerosos de los espíritus que se rumorea
+     que todavía deambulan por sus pasillos. Se dice que aquellos que se
+     acercan demasiado pueden escuchar los lamentos y susurros de los
+     fantasmas que buscan revelar la verdad detrás de su desaparición.</p>
+
+<p>Aunque algunos valientes intentaron investigar, pocos han regresado
+      para contar la historia, alimentando aún más el misterio que rodea a la
+      casa en la colina.</p>
+        </article>
+      <article>
+      <img src="foto/parteone.png" atl= "casa embrujada" align="center">
+      <img src="foto/partetwo.png" atl= "casa embrujada" align="center">
+        </article>
+      </section>
+  </main>
+  
+
+  <footer>
+  <p>© 2024 Nazarena Pintos </p>
+  </footer>
+</body>
+</html>

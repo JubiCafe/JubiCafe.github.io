@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>La casa embrujada de casavalles</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>La casa embrujada de casavalles</h1>
+
+<h3>Escrita por: Bautista Bentancur</h3>
+
+
+<p>En el barrio de Casavalle, Montevideo, se alza una antigua mansión colonial envuelta en leyendas de lo paranormal. Clara y sus 
+Armados con linternas, entraron a la casa abandonada. Pronto, comenzaron a escuchar ruidos extraños y a sentir una presencia inquietante. Mientras avanzaban por los corredores oscuros, vieron una figura espectral al final del pasillo que desapareció en un susurro.
+amigos, intrigados por la historia, decidieron explorarla una noche.</p>
+
+<p>
+Decididos a documentar todo, llegaron a una sala donde una silla comenzó a balancearse sola. Una voz suave dijo: "Ayúdenme...". El pánico los invadió, y cuando intentaron salir, las puertas se cerraron de golpe.</p>
+
+<p>Clara gritó: "¡Déjennos salir!". De repente, todo se calmó y las puertas se abrieron lentamente. Un último susurro resonó: "Gracias".</p>
+
+<p>El grupo escapó, sabiendo que la mansión guardaba secretos oscuros. Nunca olvidarían esa noche en la casa embrujada de Casavalle, un lugar donde el pasado y el presente se encontraban en un espiral de misterio eterno</p>
+
+
+
+
+
+  
+  <script src="script.js"></script>
+</body>
+
+</html>

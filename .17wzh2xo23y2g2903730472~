@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>El molino de sal</h1>
+  <p>Un gigante tenía un pequeño molino mágico, que molía sal. Un día se lo regala a una viuda que tenía una hija pequeña. Las dos mujeres ponían a trabajar el molino y tenían tanta sal que la vendían en el pueblo. Pero un duende ambicioso lo robó y lo lanzó al mar y ahí está el molino, muele y muele… y por eso el agua de mar es salada.
+</p>
+  <img src="img/historieta.PNG" />
+  
+  <script src="script.js"></script>
+</body>
+  
+
+</html>
+<img

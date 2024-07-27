@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang= "es">
+
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+ <title>Café Literario </title>
+ <link rel= "icon" href="favicon.ico" type="image/x-icon">
+  <!-- otros enlaces y scipst aqui -->
+</head>
+   
+<body>
+<h1> La Fabrica Abandonada  </h1>
+  <p> En el barrio industrial de Santa Teresa,una vieja fábrica de textiles,abandonada tras un incendio mortal,era famosa por sus ecos extraños.Por las noches,se oian voces y ruidos como si los trabajadores aún estuvieran alli.
+  Pedro,un guardia de seguridad,aceptó un turno nocturno en la fábrica.Pronto empezó a escuchar su nombre susurrado y vio sombras 
+  inexplicables.Encontró un diario de Manuel,un trabajador fallecio,que describia visiones premonitorias del incendio.Después de varias experiencias inquietantes,Pedro decidió dejar el trabajo.La historia de los ecos se propago,y nadie más quiso trabajar alli de noche.Los vecinos juraban que todavia podian escuchar los ecos de los trabajadores y ver luces parpadear,como si los fantasmas    </p>
+
+  <img src="img/comic.jpg" alt="comic"> 
+<nav>
+<a href="#">Inicio</a> 
+<a href="#">Nosotros</a>
+<a href="#">Servicio</a>
+<a href="#">Contacto</a>
+</nav>
+
+
+
+
+
+</body>
+</html>
+
+

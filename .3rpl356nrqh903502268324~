@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  
+  <h1>La Habitación</h1>
+  
+  <p>Una chica iba de camino a su casa luego de un largo día de trabajo, la chica iba cansada y tenía demasiado sueño, tanto qué iba casi durmiendose, le faltaban unas cuadras para llegar a su casa pero decidió sentarse a esperar un ómnibus, la chica qué trataba de resistirse a quedarse dormida, finalmente dejó caer sus párpados sometiéndose en un profundo sueño.</p>
+  <p>Cuando despertó, se asustó. Despertó y estaba en un lugar conocido pero en una habitación vacía de muebles, con un mínimo de iluminación y con una silla justo al lado de la única puerta qué había en ese lugar. En la silla había una mujer llorando con una profunda angustia, la chica quiso salir y lo pensó dos veces huir por la puerta, pero no podía salir, pero no podía por la razón de que la puerta estuviera cerrada, sino por el hecho de qué cada vez qué se acercaba a la puerta, la mujer dejaba de llorar y empezaba a sonreír mirándola fijamente a los ojos.</p>
+  <p>La chica se llenó de valor y corrió hacia la puerta pero fue en vano, la puerta se cerró en su cara y la mujer qué estaba mirándola con frialdad pero sonriendo sacó un filoso cuchillo y se lo clavó en el corazón a la chica, la dejó sentada en la silla y luego a eso se suicidó.</p>
+  <p>Se comenta qué por las noches, cerca del lugar se puede escuchar a la mujer todavía llorando con una inmensa angustia.</p>
+
+  <h2>
+    <img src="img/silla-centro-atencion-sobre-fondo-negro-estilo-representacion-realista-luz_334364-14580.avif"
+      </h2>
+
+  <h3>
+       <img src="img/Captura.PNG"
+    </h3>
+  
+  <script src="script.js"></script>
+  
+</body>
+
+</html>

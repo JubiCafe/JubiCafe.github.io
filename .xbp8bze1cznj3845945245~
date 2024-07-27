@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> entre las sombras del plata </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1> Entre las sombras del plata </h1>
+  <h3> Por: Lemos Umpierrez </h3>
+  <p> En un tranquilo pueblo uruguayo, rodeado de campos y con el río Uruguay serpentenado en su cercanía, la vida solía transcurrir con la monotonía propia de los lugares pequeños. Las noches eran serenas, iluminadas por la luna que reflejaba su brillo en las aguas plácidas del río. Pero detrás de esa aparente calma, acechaba una oscuridad que pocos se atrevían a mencionar. </p>
+  <p> La historia se centraba en la familia Rodríguez, propietaria de una vieja casona que se erguía majestuosa en las afueras del pueblo. La casa, conocida como "La Quinta del Plata", había sido testigo de innumerables historias a lo largo de los años. Pero ninguna tan sombría como la que estaba por desencadenarse. </p>
+  <p> Los Rodríguez, compuestos por Martín, su esposa Laura y sus dos hijos, Sofía y Mateo, vivían en relativa armonía en aquella casa de techos altos y pasillos oscuros. Sin embargo, extraños sucesos comenzaron a perturbar su tranquilidad. Voces susurrantes resonaban en las paredes durante la noche, sombras se deslizaban por los pasillos y el frío inexplicable invadía las habitaciones incluso en las noches más calurosas del verano. </p>
+  <p> Martín, un hombre de campo curtido por los años, trató de desestimar estas manifestaciones como meras fantasías. Pero su escepticismo se desvaneció cuando un oscuro secreto salió a la luz. La Quinta del Plata había sido construida sobre un antiguo cementerio indígena, cuyos espíritus inquietos clamaban venganza por la profanación de su descanso eterno. </p>
+  <p> Los vecinos del pueblo, al enterarse de la verdadera naturaleza del lugar, comenzaron a evitarlo como si fuera la morada del mismísimo diablo. Sin embargo, los Rodríguez no tenían a dónde ir. La casa, que alguna vez fue su refugio, se convirtió en su prisión. </p>
+  <p> Con el paso de los días, la presencia maligna se intensificó. Sofía, la hija menor, empezó a actuar de manera extraña, como si estuviera poseída por una fuerza invisible. Mateo, el hijo mayor, comenzó a investigar en secreto la historia de la casa, desenterrando relatos macabros de tragedias pasadas y desapariciones inexplicables que involucraban a antiguos habitantes del lugar. </p>
+  <p> Una noche, durante una tormenta eléctrica que azotaba la región, la oscuridad que había acechado durante tanto tiempo en La Quinta del Plata se manifestó en toda su plenitud. Gritos desgarradores resonaron por toda la casa, mezclados con el aullido del viento y el estruendo de los truenos. Martín, desesperado por proteger a su familia, se armó con un crucifijo y se aventuró en los oscuros pasillos en busca de respuestas. </p>
+  <p> Lo que encontró fue más aterrador de lo que jamás habría imaginado. En el sótano de la casa, descubrió un altar improvisado rodeado de velas y símbolos arcanos. En el centro del altar, yacía un libro antiguo encuadernado en piel humana, abierto en una página donde se invocaban a los espíritus de la oscuridad para que se apoderaran de las almas de los vivos. </p>
+  <p> Con un grito de horror, Martín se dio cuenta de que su familia estaba en peligro. Corrió escaleras arriba, pero era demasiado tarde. Laura yacía en el suelo, inmóvil, con los ojos en blanco, mientras que Sofía y Mateo estaban paralizados por una presencia invisible que los arrastraba hacia la oscuridad. </p>
+  <p> En un último acto de desesperación, Martín tomó el libro maldito y lo arrojó al fuego, rogando a cualquier fuerza divina que pudiera escuchar su súplica que los salvara del mal que los acechaba. Un resplandor cegador llenó la habitación, y cuando Martín abrió los ojos, se encontró de pie frente a la casa en ruinas, el sol brillando en lo alto y el sonido del río murmurando a lo lejos. </p>
+  <p> Desde aquel día, La Quinta del Plata quedó abandonada, sus paredes silenciosas testigos de los horrores que yacían ocultos en su interior. Y aunque el pueblo trató de olvidar lo que sucedió allí, las sombras del pasado continuaron acechando en las noches más oscuras, recordándoles que incluso en los lugares más apacibles, el mal puede encontrar un hogar. </p>
+  <h6> 11 de Junio, 2024 </h6>
+    <script src="script.js"></script>
+</body>
+
+</html>

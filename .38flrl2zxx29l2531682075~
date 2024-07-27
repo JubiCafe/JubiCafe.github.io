@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>El trabajo de mis padres</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>EL TRABAJO DE MIS PADRES</h1>
+  
+<p>El trabajo de mis padres es un lugar dentro de todo muy “normal” pero hay historias que son bastante inquietantes y que dejan pensando a todo el mundo.</p> 
+  <p> Por ejemplo, en las guardias, de noche, cuando no hay casi nadie es muy raro que alguien salga a vigilar, ya que por las noches, se dice, que hay como una especie de espíritu o alma que anda suelta por ahí, asustando a quien se atreva a pasar, muchos dicen que puede ser de algún niño que iba a la escuela que está al lado, pero no se sabe. </p>
+  <p>También, mi padre me contó una cosa que le pasó que la verdad fue muy rara, me dijo que una vez, el estaba en el piso de arriba barriendo cerca de la escalera de tablas medias sueltas, y de la nada escucho los pasos, como si alguien estuviese subiendo, y el cuando sintió que los pasos se escuchaban más cerca lo iba a parar para que no pisara donde él barría, y cuando se fijó, no había nadie, agarró sus cosas y se fué asustado.
+</p>
+  <script src="script.js"></script>
+</body>
+
+</html>

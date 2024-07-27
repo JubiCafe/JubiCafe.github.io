@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: lightpink
+}
+
+h1 {
+color: hotpink;
+text-align: center;
+background-color: white;
+}
+
+p {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}

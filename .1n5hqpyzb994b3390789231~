@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historias - Café Literario</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Café Literario</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+              <li><a href="Alumnos y Docentes.html">Alumnos y Docentes</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="lista-historias">
+            <h2>Lista de Historias</h2>
+            <ul>
+                <li><a href="#">Historia 1: </a></li>
+                <li><a href="#">Historia 2: </a></li>
+                <li><a href="#">Historia 3: </a></li>
+                <li><a href="#">Historia 4: </a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Café Literario - Capital Cultural</p>
+    </footer>
+</body>
+</html>

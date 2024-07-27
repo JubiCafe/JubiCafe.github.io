@@ -1,0 +1,6 @@
+html {
+    whith: 320px #green;
+    heigth:50px #yellow;
+    padding: 10px #blue;
+    border:10px solid violet;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="icon" href="icon/Cafe.png">
+    <title>Café Literario</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+  <section>
+<body>
+   <center>
+    <header>
+        <h1>Café Literario</h1>
+        <nav>
+            <ul>
+                <li><a href="historias.html">Historias</a></li>
+              <li><a href="Alumnos y Docentes.html">Alumnos y Docentes</a></li>
+            </ul>
+        </nav>
+    </header>
+   <center>
+    <main>
+        <section class="bienvenida">
+            <h2>Bienvenidos al Café Literario</h2>
+            <p>Un lugar donde las palabras toman vida y las historias fluyen con el aroma del café.</p>
+          </section>
+      <center>
+          <img src="icon_cafe_cultural/Captura de pantalla 2024-07-09 140739.png">
+          <img src="icon_cafe_cultural/capital.png" width="440" height="340">
+        </center>
+      <h1>Proceso creativo</h1>
+          <section class="bienvenida">
+          <img src="img/IMG-20240613-WA0007.jpg" width="300" height="400" />          
+          <img src="img/IMG-20240613-WA0008.jpg" width="300" height="400" />          
+          <img src="img/IMG-20240613-WA0009.jpg" width="300" height="400" />          
+          <img src="img/IMG-20240613-WA0010.jpg" width="300" height="400" />          
+          <img src="img/IMG-20240613-WA0011.jpg" width="300" height="400" />         
+          <img src="img/IMG-20240613-WA0012.jpg" width="300" height="400" />          
+          <img src="img/IMG-20240613-WA0013.jpg" width="300" height="400" />          
+          <img src="img/IMG-20240613-WA0014.jpg" width="300" height="400" />          
+          <img src="img/IMG-20240613-WA0018.jpg" width="300" height="400" />          
+          <img src="img/IMG-20240627-WA0001.jpg" width="300" height="400" />     
+          <img src="img/IMG-20240628-WA0010.jpg" width="300" height="400" />
+          <img src="img/IMG-20240613-WA0006(1).jpg" width="300" height="400" />
+          <img src="img/IMG-20240613-WA0015(1).jpg" width="300" height="400" />
+          <img src="img/IMG-20240613-WA0016(1).jpg" width="300" height="400" />
+          <img src="img/IMG-20240613-WA0017(1).jpg" width="300" height="400" />
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Café Literario - Capital Cultural</p>
+    </footer> 
+   </bod>
+  </sectio>
+   </htm>

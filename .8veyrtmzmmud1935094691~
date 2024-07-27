@@ -1,0 +1,18 @@
+ <!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>¿Qué vio mi abuela?</h1>
+  <h2>Mi abuela una vez me contó,que ella un día estaba sentada jugando a las cartas, en mi barrio.Mi barrio antes era todo campo había muy poquitas cosas en la zona.Por lo que un día ella estaba jugando a las cartas y de la nada ella escucho un gruñido bajito pero que era imposible no notarlo y que cuando ella giro la cabeza para ver que era un perro muy pero muy grande,parecido a un lobo,pero mas grande.El perro corre para colocarse debajo de la mesa.Luego de eso salió debajo de la mesa y se fue corriendo demasiado rápido y después nunca más lo volvió a ver...</h2>
+  <script src="script.js"></script>
+  <img src="img/COMIC KESIA.JPG" alt="comic">
+</body>
+
+</html>

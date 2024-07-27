@@ -1,0 +1,66 @@
+     <!DOCTYPE html>
+     <html lang="es">
+     <head>
+         <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="icon/Cafe.png">
+         <title>Café Literario</title>
+         <link rel="stylesheet" href="style.css">
+     </head>
+       <section>
+     <body>
+        <center>
+         <header>
+             <h1>Café Literario</h1>
+             <nav>
+                 <ul>
+                     <li><a href="historias.html">Historias</a></li>
+                   <li><a href="index.html">Inicio</a></li>
+                 </ul>
+             </nav>
+         </header>
+            <body>
+              <h1>Lista de Docentes y Alumnos</h1>
+
+              <h2>Docentes:</h2>
+              <ul style="list-style: none;">
+                  <li>Virginia López</li>
+                  <li>Claudia Barrios</li>
+                  <li>Santiago Skliro</li>
+              </ul>
+
+              <h2>Alumnos:</h2>
+              <ul style="list-style: none;">
+                  <li>Keshia Alaniz</li>
+                  <li>Brenda Álvarez</li>
+                  <li>Franco Ayala</li>
+                <li>Bautista Bentancur</li>
+                <li>Pricila Carabajal</li>
+                <li>Diego Castillo</li>
+                <li>Thiago Castro</li>
+                <li>Thiago Cejas</li>
+                <li>Damián Corrales</li>
+                <li>Lucio Lemos</li>
+                <li>Jordan Lencina</li>
+                <li>Emiliano Luna</li>
+                <li>Franco Magurno</li>
+                <li>Romina Melgarejo</li>
+                <li>Malena Morales</li>
+                <li>Alex Muñoz</li>
+                <li>Julieta Pereira</li>
+                <li>Emanuel Pereyra</li>
+                <li>Ayleen Pereyra</li>
+                <li>Nzarena Pintos</li>
+                <li>Valentina Quintana</li>
+                <li>Mia Reboledo</li>
+                <li>Uxue Rivero</li>
+                <li>Nicole Rodriguez</li>
+                <li>Kiara Sarrasino</li>
+                <li>Erik Senosiain</li>
+                <li>Benjamín Silva</li>
+                <li>Ayalén Suárez</li>
+                <li>Wanda Torres</li>
+                <li>Facundo Vilche</li>
+              </ul>
+            </body>
+            </htm>

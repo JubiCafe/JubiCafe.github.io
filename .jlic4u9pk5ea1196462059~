@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <p>La leyenda del chalet bonomi</p>
+En la década del cuarenta vinieron a Uruguay 3 argentinos que decidieron comprar un terreno en las proximidades de Aparicio Saravia y burgués  para construir un pequeño hotel para conseguir dinero  y al pasar el tiempo y el hotel a casi terminar una noche mientras que se encontraban descansando entraron dos ladrones diciéndoles que le dieran todas las cosas de valor pero los argentinos no tenían nada hasta estaban pensando regresar a su país para conseguir dinero para poder terminar su hotel y los ladrones estaban muy enojados hasta el punto que los degolló y los enterró en el sótano del hotel y poco después de lo sucedido la gente q pasaba por ahí por la noche sentían ruidos extraños como gritos,golpes de pico y pala y cadenas arrastradas y sentían que eran observados.
+<img src="img/chalet bonomi.PNG" alt="chalet">
+  <script src="script.js"></script>
+</body>
+
+</html>

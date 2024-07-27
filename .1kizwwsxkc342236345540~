@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1> La curva de la muerte</h1>
+  <p>La llamada curva de la muerte , donde hoy está el museo oceanográfico, es conocida por albergar el relato de Alicia del Buceo,sin embargo, el lugar fue tristemente célebre por la cantidad de accidentes de auto que allí sucedían, a tal punto que las autoridades debieron optar por eliminar la curva hace ya un tiempo. Suele contarse que los conductores, momentos antes de llegar a la zona, veían una extraña figura haciendo gestos, como si les rogara que aminorasen la velocidad.  </p>
+  <p>La llamada curva de la muerte , donde hoy está el museo oceanográfico, es conocida por albergar el relato de Alicia del Buceo,sin embargo, el lugar fue tristemente célebre por la cantidad de accidentes de auto que allí sucedían, a tal punto que las autoridades debieron optar por eliminar la curva hace ya un tiempo. Suele contarse que los conductores, momentos antes de llegar a la zona, veían una extraña figura haciendo gestos, como si les rogara que aminorasen la velocidad.</p>
+  </p>La presencia de esta silueta era un símbolo fatídico: inevitablemente los autos se estrellaban poco después de su aparición. Este espectro amigable o de mal agüero, según se lo mire que intenta alertar al automovilista, recuerda mucho al guardavías de Charles Dickens, uno de los cuentos de terror más populares del siglo XIX en él, una figura fantasmal parada sobre una tenebrosa boca de túnel- hacía exactamente estos mismos gestos antes de cada choque de tren. </p>
+ <p> En el caso de la curva de la muerte , la silueta atenta era sustituida en muchas ocasiones por gente extraña que cruzaba la calle antes que los conductores doblaran. </p>  
+</p>Con la eliminación de ese tramo, muchos años atrás, el fantasma atento presumiblemente uno de los primeros en fallecer en la trampa de la curva fue liberado finalmente de su cíclica e inútil tarea: advertir eternamente sobre los peligros mortales de esa ruta y estar condenado a ser desoído para siempre. </p>  
+  <script src="script.js"></script>
+  <img src="img/comic.PNG" alt="comic">
+</body>
+
+</html>

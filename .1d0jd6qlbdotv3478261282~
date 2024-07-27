@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<h1> La casa de los Gomez</h1> 
+  
+  <p>En la antigua casa de los Gòmez,un viejo reloj de pèndulo marcaba el tiempo sin cesar. 
+    
+Duarante una reuniòn familiar,Ana, la hija menor,descubrio una inscripcion en el reloj:"no detengas el tiempo".
+    
+Cuando el pendulo se detuvo,el tiempo se congelo y su familia quedo inmobil.Ana, aterrada,renaudo el movimiento del pendulo y todo volvio a la normalidad.
+    
+Investigando el reloj, Ana descubrio que pertenecio a un relojero obcecionado con detener el tiempo. intentando destruirlo, Ana quedo atrapada en un bucle temporal dentro de la casa mientra el reloj seguia marcando eternamente, pero de pronto salio ese relojero obcecionado y le ofrecio entrar ah su mundo y cuando ella acsedio vio todo un mundo paralisado en el tiempo, el despues de un tiempo detenido, le conto su historia pero a Ana  no le quedaba claro porque querria detener el tiempo si lo tenia todo, asi que ella pregunto ¿porque?, el confundido le pregunto, ¿porque que? ¿porque quise detenerlo?,ana le contesto si ¿porque?, el le empeso ah contarle que el lo tenia todo hasta que un dia le encontraron una enfermedad a su amada esposa, una enfermedad que con el tiempo se iria descubriendo su cura, almenos eso le dijeron a el entonces el se empeño ah detener el tiempo para el mismo descubrir esa cura, tristemente su amada habia fallecido pero el seguia en su mundo porque hay podia permanecer hasta que su hija,tenga una hija y el la pueda conocer, ya que el le dijo que cuando tenga cuya hija le ponga de nombre Ana,como su amada fallecida</p>
+  <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>La historia de la llorona</h1>
+  <img src="img/descarga.jpg" alt="llorona">"
+
+  <p>La historia de la Llorona es una historia contada en distintas parte del mundo, pero la q contare ahora es de uruguay</p>            
+  
+  
+  <h2>La historia de la llorona</h2>
+
+<p>Según la leyenda tradicional, La Llorona es el espíritu de una mujer que, por distintas razones según la versión, termina vagando en busca de sus hijos perdidos. Se dice que aparece llorando y lamentándose, a menudo cerca de cuerpos de agua, como ríos o lagos. Se cuenta que su lamento es desgarrador y que aquellos que lo escuchan pueden correr peligro.
+
+En el caso del Parque Rivera, podría ser que la leyenda local haya adoptado elementos del entorno para darle un toque más cercano a la experiencia de las personas que visitan el parque. Tal vez se haya relacionado a la leyenda con algún suceso trágico que haya ocurrido en el lugar o simplemente se haya adaptado la historia para generar un mito local.
+
+Sin embargo, es importante recordar que La Llorona es una leyenda y no tiene base histórica verificable. Es parte del folclore y la tradición oral de muchas culturas latinoamericanas, transmitida de generación en generación para asombrar e intrigar a las personas.
+</p>
+
+
+  <img src="img/Captura.PNG" alt="comic">
+
+
+
+<p>@ Erik Senosiain 2024</p>
+<p>@ Morena Reboledo 2024</p>
+
+
+</body>
+
+</html>

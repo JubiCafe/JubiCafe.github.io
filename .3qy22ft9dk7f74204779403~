@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>la historia de la abuela</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+ <h1>la historia de la abuela </h1>
+  <p>Este trabajo se llama "LA HISTORIA DE LA ABUELA".
+ Esta historia le pasó a mi abuela cuando era chica, tenía 7 u 8 años. La historia que voy a contar va a tener algunos ajustes para que sea más interesante y real, y empieza así... Había ido al almacén a hacer unas compras para mi abuela. Me había pedido algunas cosas para la cena de hoy.</p> 
+  <p>Ya era medio tarde, el sol poco a poco se ocultaba y la luna salía. Terminé de comprar las cosas que me había dicho mi abuela y me fui directo para su casa, rápido, ya que poco a poco se hacía de noche. Estaba caminando tranquilo hacia la casa de mi abuela, ya estaba a punto de llegar, tenía que doblar la calle y caminar hacia arriba. La almacén le quedaba un poco lejos. </p> 
+  <p>Cuando iba a doblar la calle para llegar a la casa de mi abuela, vi una sombra rara. Cuando me acerco, veo a un perro grande y negro con ojos enormes y muy brillantes, amarillos como el sol, pero tenía algo raro, algo que no podía creer. Más sorprendente aún, tenía manos, sí, manos de humanos, unas manos grandes como las de un hombre. Me miró con esos ojos penetrantes, pero no me hizo nada.</p> 
+  Yo solo doblé la calle y seguí caminando, el animal me siguió, caminando a mi lado sin verme ni hacer ningún ruido, solo siguiéndome. Ya estaba prácticamente en la casa de mi abuela, tenía que cruzar la calle y ya estaba. Pero antes de cruzar, miré a mi lado para ver si el animal seguía ahí, y cuando lo hice, ya no estaba.</p>
+ <p> En ese momento se había ido, se había escapado. Tenía muchas preguntas y dudas que contarle a mi abuela, para ver si ella me podía ayudar a responderlas. Llegué a la casa de mi abuela y le conté lo que me pasó cuando venía para su casa. Ella quedó pálida, la noté rara, y me dijo que le contaron que por estas calles se encontraba un lobizón. Al caer la noche, él salía a caminar por las calles y asustar a la gente y a lastimar. Cundo mi abuela me contó eso, que le dijieron,me quedé callada ,sin hacer ninguna pregunta le di las cosas ami mi abuela y me fui para el patio y me puse a pensar el ami no a hecho nada solo me miro y me siguio. ¿Será que no era como todo el mundo dice?</p>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang= "es">
+
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+ <title>Café Literario </title>
+ <link rel= "icon" href="favicon.ico" type="image/x-icon">
+  <!-- otros enlaces y scipst aqui -->
+</head>
+
+<body>
+<h1> La dama blanca  </h1>
+  <p> Un día de a las afueras de un  pueblo escuché una historia que decía que un día de luna llena, que la luna brillaba como una perla sobre un cementerio a la media noche un hombre de traje negro con un sombrero entro con una rosa en la mano para su enamorada que murió. Cuando llegó a su lápida se arrodilló; se puso a llorar con la rosa en una mano y en la y en la otra llevaba una botella de whisky. 
+
+  Fue todo haci por un año hasta  que llegó la fecha de cuando murió su enamorada,cuando entró al cementerio fue  a la lápida de su enamorada cuando de la nada apareció una dama vestida de blanco con una rosa roja en la mano le tocó el hombro y le dijo deja de llorar por tu enamorada. El se dio vuelta, la miró  y le dijo quién eres ... ella solo le dijo soy quien te va a llevar con tu enamorada ella te espera en el otro lado.
+  El solo le dijo que tenía que hacer para ir con ella y la mujer de blanco le dijo un día de luna llena vas a venir a este mismo lugar, yo voy aparecer y te llevaré con ella.
+
+  Pasó un mes y un sábado de luna llena el fue al cementerio, pero al otro día no se lo vio a ver más, muchos dicen que cuando se pasa  por allí los día de luna llena se ve a los dos enamorados caminar a las afueras del cementerio.
+   </p>
+    <img src="img/cafe.png" alt="cafe">
+
+  </body>
+  </html>
+  
